@@ -1,6 +1,11 @@
 #include<stdio.h>
+<<<<<<< Updated upstream
 int main(void)
 {
+=======
+//int main(void)
+//{
+>>>>>>> Stashed changes
 	//정수형 변수에 대한 예제
 	/*int age = 12;
 	printf("%d\n", age); // %d = 정수를 쓴다
@@ -48,7 +53,11 @@ int main(void)
 	// 경찰관이 범죄자의 정보를 입수 (조서 작성)
 	// 이름? 나이? 몸무게? 키? 범죄명?
 
+<<<<<<< Updated upstream
 	char name[256];
+=======
+	/*char name[256];
+>>>>>>> Stashed changes
 	printf("이름이 뭐예요? ");
 	scanf_s("%s", name, sizeof(name));
 	
@@ -74,8 +83,15 @@ int main(void)
 	printf(" 나이         : %d\n", age);
 	printf(" 몸무게       : %.2f\n", weight);
 	printf(" 키           : %.2lf\n", height);
+<<<<<<< Updated upstream
 	printf(" 범죄         : %s\n", what);
 
 
 	return 0;
 }
+=======
+	printf(" 범죄         : %s\n", what);*/
+
+	//return 0;
+//}
+>>>>>>> Stashed changes

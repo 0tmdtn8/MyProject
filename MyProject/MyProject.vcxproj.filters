@@ -18,5 +18,11 @@
     <ClCompile Include="scanf printf.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+<<<<<<< Updated upstream
+=======
+    <ClCompile Include="Loop.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+>>>>>>> Stashed changes
   </ItemGroup>
 </Project>
